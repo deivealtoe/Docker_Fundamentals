@@ -1,0 +1,28 @@
+version: "3.8"
+services:
+    mongodb_learning:
+        image: mongo
+        container_name: mongodb_learning
+        ports:
+            - 27018:27017
+        volumes:
+            - data:/data
+        environment:
+            - MONGO_INITDB_ROOT_USERNAME=rootuser
+            - MONGO_INITDB_ROOT_PASSWORD=rootpass
+    mongo_express_learning:
+        image: mongo-express
+        container_name: mongo_express_learning
+        restart: always
+        ports:
+            - 8082:8081
+        environment:
+            - ME_CONFIG_MONGODB_ADMINUSERNAME=rootuser
+            - ME_CONFIG_MONGODB_ADMINPASSWORD=rootpass
+            - ME_CONFIG_MONGODB_SERVER=mongodb_learning
+volumes:
+    data: {}
+
+networks:
+    default:
+        name: mongodb_learning_network

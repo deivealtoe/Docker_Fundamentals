@@ -1,0 +1,173 @@
+student = {
+    "firstName":"Retha",
+    "lastName":"Killeen",
+    "email":"rkilleen0@mysql.com",
+    "gender":"F",
+    "country":"Philippines",
+    "isStudentActive":false,
+    "favoriteSubjects":["maths", "english", "it"],
+    "totalSpentInBooks":0.00
+}
+
+students = [
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+    {
+        "firstName":"Retha",
+        "lastName":"Killeen",
+        "email":"rkilleen0@mysql.com",
+        "gender":"F",
+        "country":"Philippines",
+        "isStudentActive":false,
+        "favoriteSubjects":["maths", "english", "it"],
+        "totalSpentInBooks":0.00
+    },
+]
