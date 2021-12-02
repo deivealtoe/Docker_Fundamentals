@@ -1,0 +1,6 @@
+- ```docker run -d -P dockersamples/static-site```
+- ```docker port id_do_container```
+- ```docker run -d -P -e AUTHOR="Deive" --name site-estatico dockersamples/static-site```
+- ```docker stop $(docker ps -q)```
+- ```docker stop -t 0 209f389e491a```
+- 
