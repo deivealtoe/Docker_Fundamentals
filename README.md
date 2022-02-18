@@ -8,3 +8,5 @@
 - ```docker run -d -p 8080:3000 -v "/home/deive/workspaces/docker_workspace/teste_volume_container:/var/www" -w "/var/www" node npm start```
 - ```docker run -d -p 8080:3000 -v "$(pwd):/var/www" -w "/var/www" node npm start```
 - ```docker build -f dockerfile -t deivealtoe/node_test .```
+- ```docker pause container_id```
+- ```docker unpause container_id```
