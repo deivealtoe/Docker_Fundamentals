@@ -1,13 +1,7 @@
-FROM node:latest
-
+FROM node:16
 ENV PORT=3000
-
-COPY . /var/www
-
-WORKDIR /var/www
-
-RUN npm install
-
-ENTRYPOINT npm start
-
 EXPOSE $PORT
+WORKDIR /var/www
+COPY . .
+RUN npm install
+ENTRYPOINT npm start
