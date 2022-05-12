@@ -10,3 +10,8 @@
 - ```docker build -f dockerfile -t deivealtoe/node_test .```
 - ```docker pause container_id```
 - ```docker unpause container_id```
+
+
+### Como instalar o docker no Raspbian OS Lite - Raspberry Pi Zero W
+
+```https://www.jfrog.com/connect/post/install-docker-compose-on-raspberry-pi/```
